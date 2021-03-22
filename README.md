@@ -24,7 +24,7 @@ samples, guidance on mobile development, and a full API reference.
     <td  rowspan="2"><img src="https://github.com/mahirkursun/Flutter_App_Examples/blob/main/images/animation4.gif" width="400"/></td>
   </tr>
   <tr>
-    <td><img src="https://github.com/mahirkursun/Flutter_App_Examples/blob/main/images/konum4.png" width="400"/></td>
+    <td><img src="https://github.com/mahirkursun/Flutter_App_Examples/blob/main/images/konum4.JPG" width="400"/></td>
 
   </tr>
 
